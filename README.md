@@ -16,3 +16,18 @@ Edit the variables in `app.py` with your information:
 - Major
 - Technology Interest
 - Skill Goal
+
+### Student Developer Profile
+
+**Name:** Daniel Adewale
+
+**Technology Interest:** Artificial Intelligence
+
+**Senior Project Skill Goal:** Backend Developer 
+
+
+## Development Workflow
+
+```
+Branch → Code → Commit → Push → Pull Request → Review → Merge
+```
